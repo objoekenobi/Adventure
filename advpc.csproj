@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\jobrien\Downloads\advpda\advpc.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AFC28DA6-80D2-408E-A1A3-F34A971AF267}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Dbasic</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>0.0.0.0</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DDouble.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IStream.cs" />
+    <Compile Include="IEnhancedControl.cs" />
+    <Compile Include="b4p.cs" />
+    <Compile Include="Other.cs" />
+    <Compile Include="CStreamRandom.cs" />
+    <Compile Include="CStreamReader.cs" />
+    <Compile Include="CStreamWriter.cs" />
+    <Compile Include="CCompareNumbers.cs" />
+    <Compile Include="IImage.cs" />
+    <Compile Include="IText.cs" />
+    <Compile Include="IEnabled.cs" />
+    <Compile Include="IChecked.cs" />
+    <Compile Include="EnhancedControls\CEnhancedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedObject.cs" />
+    <Compile Include="EnhancedControls\CEnhancedTimer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedCombo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedImageButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EnhancedControls\CEnhancedImage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WebBrowser\WebBrowser.cs" />
+    <Compile Include="bDeviceInfo\Class_bDeviceInfo.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="b4p.images\abc123.bmp" />
+    <EmbeddedResource Include="b4p.images\butdel.bmp" />
+    <EmbeddedResource Include="b4p.images\butenter.bmp" />
+    <EmbeddedResource Include="b4p.images\butenter2.bmp" />
+    <EmbeddedResource Include="b4p.images\getdrop.bmp" />
+    <EmbeddedResource Include="b4p.images\head.bmp" />
+    <EmbeddedResource Include="b4p.images\help.bmp" />
+    <EmbeddedResource Include="b4p.images\inv.bmp" />
+    <EmbeddedResource Include="b4p.images\magglass.bmp" />
+    <EmbeddedResource Include="b4p.images\move.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="advpda.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="app.config" />
+    <None Include="data_scottadams\ADV01.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV02.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV03.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV04.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV05.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV06.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV07.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV08.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV09.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV10.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV11.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV12.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV13.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV14.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="data_scottadams\ADV15.DAT">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\A Pastel Paradise.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\Bonfire Night.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\Dark Foreboding Skies.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\Green Phosphor Caves.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\On The High Seas.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="themes\Template.thm">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data_scottadams\readme_sa.txt" />
+    <Content Include="hints\HINT01.txt" />
+    <Content Include="hints\HINT02.txt" />
+    <Content Include="hints\HINT03.txt" />
+    <Content Include="hints\HINT04.txt" />
+    <Content Include="hints\HINT05.txt" />
+    <Content Include="hints\HINT06.txt" />
+    <Content Include="hints\HINT07.txt" />
+    <Content Include="hints\HINT08.txt" />
+    <Content Include="hints\HINT09.txt" />
+    <Content Include="hints\HINT10.txt" />
+    <Content Include="hints\HINT11.txt" />
+    <Content Include="hints\HINT12.txt" />
+    <Content Include="hints\HINT13.txt" />
+    <Content Include="hints\HINT14.txt" />
+    <Content Include="hints\README_Hints.TXT" />
+    <Content Include="hints\SavageIsland2_CipherKey.txt" />
+    <Content Include="images\scotts_games\adv01.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv02.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv03.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv04.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv05.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv06.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv07.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv08.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv09.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv10.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv11.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv12.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv13.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv14.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\scotts_games\adv15.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\advpda.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

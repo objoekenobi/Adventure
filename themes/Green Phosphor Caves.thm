@@ -1,0 +1,26 @@
+' ---------------------------------------------
+' THEME: Green Phosphor Caves
+' ---------------------------------------------
+' This theme is jointly dedicated to the old 
+' green screen computers like the Commodore PET 
+' and also to Will Crowther and Don Woods.
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#000000
+HTML_LOOK_BACKGROUND=#000000
+HTML_EXIT_BACKGROUND=#000000
+HTML_MESG_BACKGROUND=#000000
+
+HTML_ROOM_TEXT=#20b020
+HTML_LOOK_TEXT=#20b020
+HTML_EXIT_TEXT=#20b020
+HTML_MESG_TEXT=#20b020
+
+HTML_LOOK_PROMPT=#009000
+HTML_EXIT_PROMPT=#009000
+
+HTML_LOOK_HYPERLINK=#00ff00
+HTML_EXIT_HYPERLINK=#00ff00
+HTML_MESG_HYPERLINK=#00ff00
+
+HTML_LINE_BREAK=#008000

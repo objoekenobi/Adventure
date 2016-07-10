@@ -1,0 +1,26 @@
+' ---------------------------------------------
+' THEME: A Pastel Paradise
+' ---------------------------------------------
+' Dedicated to your own imagination!
+'                            
+'                          - therealeasterbunny
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#FFFFFF
+HTML_LOOK_BACKGROUND=#FFFFFF
+HTML_EXIT_BACKGROUND=#FFFFFF
+HTML_MESG_BACKGROUND=#FFFFFF
+
+HTML_ROOM_TEXT=#000000
+HTML_LOOK_TEXT=#000000
+HTML_EXIT_TEXT=#000000
+HTML_MESG_TEXT=#000000
+
+HTML_LOOK_PROMPT=#000000
+HTML_EXIT_PROMPT=#000000
+
+HTML_LOOK_HYPERLINK=#0000FF
+HTML_EXIT_HYPERLINK=#0000FF
+HTML_MESG_HYPERLINK=#0000FF
+
+HTML_LINE_BREAK=#000000

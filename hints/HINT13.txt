@@ -1,0 +1,347 @@
+* * * SORCERER OF CLAYMORGUE CASTLE - ADVENTURE 13 HINTS AND SOLUTIONS * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - CAN NOT GET IN THE CASTLE?
+     39 165
+2 - More help for above problem.
+     116 99 32 53 205 1 116
+3 - Solution to above problem.
+     5 190 53
+-----------------------------------
+4 - CAN NOT FIGURE OUT PLAIN ROOM?
+     58 94 106
+5 - More help for above problem.
+     85 94 106
+6 - Solution to above problem.
+     76 171 81 20
+-----------------------------------
+7 - HAVE A PROBLEM WITH RATS?
+     139 143 81 53 128
+8 - More help for above problem.
+     109 203 65 91 82 45 158 99 152 105
+     116
+9 - Solution to above problem.
+     188 81 33 171 64 170 94 53 189
+-----------------------------------
+10 - PROBLEM WITH CHANDELIER?
+      58 160
+11 - More help for above problem.
+      108 94 67 98 172 109 194 188 81 53
+12 - Solution to above problem.
+      18 53 137 100 128
+-----------------------------------
+13 - HAVE NOT FOUND THE DRAGON YET?
+      8 101 94 193 16
+14 - More help for above problem.
+      116 150 100 171 94 106
+15 - Solution to above problem.
+      76 83
+-----------------------------------
+16 - HAVE NOT FOUND THE LOFT?
+      52
+17 - More help for above problem.
+      58
+18 - Solution to above problem.
+      58 160 101 94 52
+-----------------------------------
+19 - CAN NOT REACH THE LOFT?
+      12 192
+20 - More help for above problem.
+      143 94 48 95 201 53 194 10 179 162
+      128
+21 - Solution to above problem.
+      5 154 112 171 94 48
+-----------------------------------
+22 - HAVE NOT FOUND ANYTHING USEFUL IN THE MOAT?
+      135 89 153
+23 - More help for above problem.
+      153
+24 - Solution to above problem.
+      174 107 45 94 79
+-----------------------------------
+25 - HAVE NOT FOUND ANYTHING USEFUL IN THE KITCHEN?
+      14
+26 - More help for above problem.
+      163 14
+27 - Solution to above problem.
+      174 107 125 94 14
+-----------------------------------
+28 - HAVE NOT USED WICKED QUEEN'S SPELL?
+      92 175 94 49 96 194 99 3 77
+29 - More help for above problem.
+      99 114 94 49 96 66 194 40 99 109 175
+      141 170
+30 - Solution to above problem.
+      5 49 171 94 74 185
+-----------------------------------
+31 - HAVE NOT FOUND BLISS?
+      61
+32 - More help for above problem.
+      58 61
+33 - Solution to above problem.
+      146 133
+-----------------------------------
+34 - DO NOT HAVE A CAN?
+      58 129
+35 - More help for above problem.
+      135 109 72 94 106
+36 - Solution to above problem.
+      58 129 62 171 94 97 11 101 94 59
+-----------------------------------
+37 - HAVE NOT FOUND UNRAVEL YET?
+      193 16
+38 - More help for above problem.
+      76 203 150 109 194 94 140 206 87
+39 - Solution to above problem.
+      9 171 94 20 43 94 140 24 81 111
+-----------------------------------
+40 - RATS A PROBLEM?
+      188 94 69 45 120 81 53
+41 - More help for above problem.
+      139 143 45 41
+42 - Solution to above problem.
+      5 122
+-----------------------------------
+43 - CAN NOT GET THROUGH THE STONE DOOR?
+      116 150 138 53 171 164
+44 - More help for above problem.
+      188 53 42 7 95 80 101 197 90
+45 - Solution to above problem.
+      101 94 14 174 107 95 71 118 109 208
+-----------------------------------
+46 - STILL CAN NOT GET THROUGH STONE DOOR?
+      139 30 80 101 94 90 139 51
+47 - More help for above problem.
+      180 94 204 42 94 129
+48 - Solution to above problem.
+      174 107 70 101 94 123 186 174 93 186
+      5 190 171 6 22
+-----------------------------------
+49 - CAN NOT CROSS LAVA?
+      188 69 45 158 99 64 105 116
+50 - More help for above problem.
+      54
+51 - Solution to above problem.
+      5 13 45 177
+-----------------------------------
+52 - CAN NOT DRY OUT TOWEL?
+      56
+53 - More help for above problem.
+      28
+54 - Solution to above problem.
+      66 29 208 17 167 139 171 28
+-----------------------------------
+55 - HAVING PROBLEMS WITH FOUNTAIN?
+      58 78
+56 - More help for above problem.
+      188 94 69
+57 - Solution to above problem.
+      109 203 94 78 170 199
+-----------------------------------
+58 - FOUNTAIN STILL A PROBLEM?
+      99 203 94 37 170 121
+59 - More help for above problem.
+      192 53 95 47 136
+60 - Solution to above problem.
+      161 53 95 17 206 168
+-----------------------------------
+61 - CAN NOT GET CAN?
+      142 50
+62 - More help for above problem.
+      142 110
+63 - Solution to above problem.
+      192 53 137 155 152 117
+-----------------------------------
+64 - HAVE NOT GOTTEN INTO BOX?
+      163 60
+65 - More help for above problem.
+      188 192
+66 - Solution to above problem.
+      5 38
+-----------------------------------
+67 - HAVE NOT FIGURED A USE FOR FIRE?
+      109 137 26 88
+68 - More help for above problem.
+      109 137 26 103
+69 - Solution to above problem.
+      135 115 109 157 94 124 101 81 25 35
+-----------------------------------
+70 - HAVE NOT FOUND FIREFLY SPELL?
+      134
+71 - More help for above problem.
+      58 134
+72 - Solution to above problem.
+      116 109 4
+-----------------------------------
+73 - DRAGON STILL A PROBLEM?
+      135 105 101 159 170 94 69
+74 - More help for above problem.
+      104
+75 - Solution to above problem.
+      145 68 21 104
+-----------------------------------
+76 - CAN NOT LEAVE LOFT?
+      109 203 150 151 176
+77 - More help for above problem.
+      73 194 192 44
+78 - Solution to above problem.
+      5 13 95 73
+-----------------------------------
+79 - DRAGON STILL A PROBLEM?
+      139 143 166 34 139 207 150 202 130
+      139 30 149
+80 - More help for above problem.
+      36 34 30 15 156 72 94 193 16
+81 - Solution to above problem.
+      109 203 101 94 132 16
+-----------------------------------
+82 - DRAGON STILL A PROBLEM?
+      94 34 203 94 148 101 94 16
+83 - More help for above problem.
+      181 94 148 45 94 134
+84 - Solution to above problem.
+      200 11 142 94 148 157 94 134
+-----------------------------------
+85 - HAVE NOT DONE ANYTHING WITH THE STAIRS?
+      5 38 171 94 187 63
+86 - More help for above problem.
+      94 122 53 203 46 42 184 196 27 94 131
+      194 19 169 116 139 75 139 206
+87 - Solution to above problem.
+      57 122 139 30 31 94 131 126
+-----------------------------------
+88 - DO NOT KNOW WHERE TO STORE THE STARS?
+      147
+89 - More help for above problem.
+      53
+90 - Solution to above problem.
+      5 38
+-----------------------------------
+91 - CAN NOT RETRIEVE THINGS FROM MOAT
+     BOTTOM WITHOUT WASTING A SPELL?
+      151 203 86 194 113 195 105 137 100
+      173 128
+92 - More help for above problem.
+      23 179 45 182 81 127 198 190 194 109
+      119 208 194 102 30 139 167 94 86 53
+93 - Solution to above problem.
+      5 13
+-----------------------------------
+94 - DO NOT KNOW WHERE TO USE FIRE SPELL?
+      147
+95 - More help for above problem.
+      99 191 2 81 147
+96 - Solution to above problem.
+      5 18 171 81 84
+-----------------------------------
+97 - CAN NOT GET ALL STARS INTO TREASURE LOCATION?
+      109 137 39 195 178
+98 - More help for above problem.
+      188 94 195 144 53
+99 - Solution to above problem.
+      5 183 128
+-----------------------------------
+100 - NEED TO GET IN THE BOX?
+       5 38
+101 - More help for above problem.
+       135 81 184 47 224 43 216
+102 - Solution to above problem.
+       142 60 55 170 104
+-----------------------------------
+103 - CAN NOT OPEN THE CAN?
+       60
+104 - More help for above problem.
+       19 116 139 215 116 109
+105 - Solution to above problem.
+       188 209 30 221 101 94 60
+-----------------------------------
+106 - WARNING WHAT FOLLOWS ARE SOLUTIONS
+      AND NOT HINTS!  ARE YOU NOT SURE OF
+      PROCEDURE TO USE SPELLS IN?
+       5 13 214 157 123 79
+107 - More help for above problem.
+       18 157 84
+108 - Solution to above problem.
+       122 223 131 186 101 95 208 170 217
+       126
+-----------------------------------
+109 - MORE SOLUTIONS?
+       57 210 208 170 123 186 163 45 104
+       186 45 28
+110 - More help for above problem.
+       45 149 227 225 84 188 38 45 149 101
+111 - Solution to above problem.
+       188 183 45 149 208 186 163 45 78
+-----------------------------------
+112 - MORE SOLUTIONS?
+       163 107 94 226 218 95 149 220 222 95
+       183 213 45 84
+113 - More help for above problem.
+       211 101 219 35 45 149 81 222
+114 - Solution to above problem.
+       211 101 94 212 45 149 151 222
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 WOULD             58 EXAMINE          115 CASTING         172 TAKING
+ 2 UP                59 COURTYARD        116 DO              173 WELL
+ 3 FAIRY             60 BOX              117 AIM             174 SWIM
+ 4 AGAIN             61 KITCHEN          118 FIGURE          175 WAS
+ 5 CAST              62 EITHER           119 POPS            176 FAR
+ 6 STONE             63 STAIRS           120 TEST            177 CROSS
+ 7 DRAWBRIDGE        64 SOME             121 YOUNG           178 TRIPS
+ 8 PLAY              65 TOO              122 LYCANTHROPE     179 TRYING
+ 9 PULL              66 HAVE             123 MOAT            180 MAP
+ 10 START            67 ROPE             124 LEVER           181 DELIVER
+ 11 OR               68 POTION           125 THROUGH         182 SQUEEZE
+ 12 TAKES            69 MIRROR           126 HOLE            183 YOHO
+ 13 BLISS            70 TWICE            127 WATER           184 MORE
+ 14 DRAIN            71 YOU'LL           128 HERE            185 GLASS
+ 15 BE               72 NEAR             129 CASTLE          186 THEN
+ 16 ROOM             73 JUMP             130 KNOW            187 WOODEN
+ 17 TOWEL            74 BROKEN           131 RATS            188 USE
+ 18 FIRE             75 THINK            132 DUSTY           189 NAMES
+ 19 HOW              76 PUSH             133 CABINETS        190 SEED
+ 20 WALL             77 TALE             134 DRAGON          191 MAKES
+ 21 FROM             78 FOUNTAIN         135 TRY             192 MAGIC
+ 22 DOOR             79 BOTTOM           136 DEVICE          193 PLAIN
+ 23 PICTURE          80 COME             137 WILL            194 -
+ 24 AS               81 A                138 WASTE           195 TWO
+ 25 DARK             82 PERHAPS          139 YOU             196 THAN
+ 26 BURN             83 FLOOR            140 NICHES          197 ANOTHER
+ 27 SCARING          84 TREE             141 MADE            198 MELON
+ 28 LAVA             85 MOVE             142 THROW           199 YOUTH
+ 29 WRUNG            86 RIGHT            143 NEED            200 BLOW
+ 30 CAN              87 HANDY            144 TRIP            201 ASSOCIATED
+ 31 ENTER            88 THINGS           145 DRINK           202 EVEN
+ 32 ANY              89 GOING            146 OPEN            203 IS
+ 33 DICTIONARY       90 WAY              147 FOREST          204 DIRECTIONS
+ 34 ITEM             91 EARLY            148 DUST            205 CASTER
+ 35 PLACE            92 WHO              149 GET             206 ARE
+ 36 THIS             93 EAST             150 NOT             207 MAY
+ 37 OPPOSITE         94 THE              151 THAT            208 OUT
+ 38 PERME            95 AND              152 YOUR            209 METAL
+ 39 TAKE             96 QUEEN            153 DEEPER          210 GETTING
+ 40 REMEMBER         97 BRIDGE           154 LIGHT           211 DIG
+ 41 TRANSFORM        98 WITHOUT          155 IMPROVE         212 FIELD
+ 42 FOR              99 WHAT             156 FOUND           213 BACK
+ 43 USING            100 WORK            157 AT              214 WHEN
+ 44 USEFUL           101 IN              158 SEE             215 NORMALLY
+ 45 TO               102 SO              159 FRONT           216 GRAVITY
+ 46 GOOD             103 WOOD            160 CEILING         217 THEIR
+ 47 MUNDANE          104 LOFT            161 METHUS          218 SHAFT
+ 48 CHANDELIER       105 SPELLS          162 THEM            219 OBVIOUS
+ 49 WICKED           106 WALLS           163 GO              220 LAST
+ 50 SOMETHING        107 DOWN            164 ENTRY           221 OPENER
+ 51 LEFT             108 REMOVE          165 INVENTORY       222 STAR
+ 52 BALLROOM         109 IT              166 AN              223 BY
+ 53 SPELL            110 BRICKS          167 WITH            224 APPROACH
+ 54 HAPPY            111 HANDLE          168 NEEDED          225 INTO
+ 55 OFF              112 WHILE           169 BIG             226 AIR
+ 56 HEAT             113 BUT             170 OF              227 STARS
+ 57 AFTER            114 DID             171 ON             

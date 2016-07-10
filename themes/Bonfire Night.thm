@@ -1,0 +1,28 @@
+' ---------------------------------------------
+' THEME: Bonfire Night
+' ---------------------------------------------
+' Remember, remember the fifth of November, 
+' The gunpowder, treason and plot, 
+' I know of no reason 
+' Why gunpowder treason 
+' Should ever be forgot.
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#000000
+HTML_LOOK_BACKGROUND=#000000
+HTML_EXIT_BACKGROUND=#000000
+HTML_MESG_BACKGROUND=#000000
+
+HTML_ROOM_TEXT=#FFFFFF
+HTML_LOOK_TEXT=#60ff60
+HTML_EXIT_TEXT=#ff6060
+HTML_MESG_TEXT=#ffff60
+
+HTML_LOOK_PROMPT=#00a000
+HTML_EXIT_PROMPT=#ff0000
+
+HTML_LOOK_HYPERLINK=#80ff80
+HTML_EXIT_HYPERLINK=#ff8080
+HTML_MESG_HYPERLINK=#ffff80
+
+HTML_LINE_BREAK=#808080

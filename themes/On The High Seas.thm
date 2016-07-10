@@ -1,0 +1,32 @@
+' ---------------------------------------------
+' THEME: On The High Seas
+' ---------------------------------------------
+' This theme is dedicated to all the people who 
+' risk their lives, sailing the seven seas, 
+' from olde wurlde buccaneers through to the 
+' Service Personnel of Her Majesty's Royal Navy 
+' through to the fisherman who supply some of 
+' the ingredients for some good old English 
+' Fish and Chips!
+'                             Ahoy Me Hearties!
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#0060FF
+HTML_LOOK_BACKGROUND=#0080FF
+HTML_EXIT_BACKGROUND=#0070FF
+HTML_MESG_BACKGROUND=#0060FF
+
+HTML_ROOM_TEXT=#FFFFFF
+HTML_LOOK_TEXT=#FFFFFF
+HTML_EXIT_TEXT=#FFFFFF
+HTML_MESG_TEXT=#FFFFFF
+
+HTML_LOOK_PROMPT=#00FFFF
+HTML_EXIT_PROMPT=#00FFFF
+
+HTML_LOOK_HYPERLINK=#FFFF00
+HTML_EXIT_HYPERLINK=#FFFF00
+HTML_MESG_HYPERLINK=#FFFF00
+
+
+HTML_LINE_BREAK=#0000B0

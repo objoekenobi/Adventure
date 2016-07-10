@@ -1,0 +1,27 @@
+' ---------------------------------------------
+' THEME: A Pastel Paradise
+' ---------------------------------------------
+' Dedicated to all things Pastel. Why? Well,
+' as my Dad used to say ... "BECAUSE...!"
+'                            
+'                          - therealeasterbunny
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#ffffa0
+HTML_LOOK_BACKGROUND=#ffa0ff
+HTML_EXIT_BACKGROUND=#ffbf60
+HTML_MESG_BACKGROUND=#ffffa0
+
+HTML_ROOM_TEXT=#000000
+HTML_LOOK_TEXT=#000000
+HTML_EXIT_TEXT=#000000
+HTML_MESG_TEXT=#000000
+
+HTML_LOOK_PROMPT=#800000
+HTML_EXIT_PROMPT=#800000
+
+HTML_LOOK_HYPERLINK=#0000ff
+HTML_EXIT_HYPERLINK=#0000ff
+HTML_MESG_HYPERLINK=#0000ff
+
+HTML_LINE_BREAK=#808080

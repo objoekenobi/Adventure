@@ -1,0 +1,32 @@
+' ---------------------------------------------
+' THEME: Dark Foreboding Skies
+' ---------------------------------------------
+' This theme is dedicated to feelings and 
+' atmosphere. Such as you should feel when 
+' playing Scott Adams adventures.
+' 
+' Feelings like you get when walking down an 
+' english country lane, a short while away from 
+' anywhere and the sky turns that danger colour 
+' where you know that you are going to get a
+' proper soaking ... :)
+' ---------------------------------------------
+
+HTML_BODY_BACKGROUND=#E1E1E1
+HTML_LOOK_BACKGROUND=#B0B0B0
+HTML_EXIT_BACKGROUND=#C7C7C7
+HTML_MESG_BACKGROUND=#E1E1E1
+
+HTML_ROOM_TEXT=#000000
+HTML_LOOK_TEXT=#000000
+HTML_EXIT_TEXT=#000000
+HTML_MESG_TEXT=#000000
+
+HTML_LOOK_PROMPT=#C00000
+HTML_EXIT_PROMPT=#C00000
+
+HTML_LOOK_HYPERLINK=#000000
+HTML_EXIT_HYPERLINK=#000000
+HTML_MESG_HYPERLINK=#000000
+
+HTML_LINE_BREAK=#0000A0
