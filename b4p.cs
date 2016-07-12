@@ -387,7 +387,9 @@ namespace Dbasic
 					if (obj != null)
 					{
 						if (obj is IDisposable)
+						{
 							((IDisposable)obj).Dispose();
+						}
 					}
 				}
 				catch

@@ -61,7 +61,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DDouble.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
